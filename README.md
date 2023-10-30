@@ -15,3 +15,7 @@ Este repositório é referente as minhas anotações do curso disponível na DSA
 ---
 
 ## Capítulo 02 - Loops, Condicionais, Métodos e Funções
+
+- [Condicionais](Capitulo02/Cap02-01-Condicionais.ipynb)
+- [Loop For](Capitulo02/Cap02-02-Loop-For.ipynb)
+- [Loop While](Capitulo02/Cap02-03-Loop-While.ipynb)
