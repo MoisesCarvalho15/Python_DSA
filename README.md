@@ -19,3 +19,5 @@ Este repositório é referente as minhas anotações do curso disponível na DSA
 - [Condicionais](Capitulo02/Cap02-01-Condicionais.ipynb)
 - [Loop For](Capitulo02/Cap02-02-Loop-For.ipynb)
 - [Loop While](Capitulo02/Cap02-03-Loop-While.ipynb)
+- [Range](Capitulo02/Cap02-04-Range.ipynb)
+- [Métodos](Capitulo02/Cap02-05-Metodos.ipynb)
