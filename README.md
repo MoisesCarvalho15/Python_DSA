@@ -21,3 +21,6 @@ Este repositório é referente as minhas anotações do curso disponível na DSA
 - [Loop While](Capitulo02/Cap02-03-Loop-While.ipynb)
 - [Range](Capitulo02/Cap02-04-Range.ipynb)
 - [Métodos](Capitulo02/Cap02-05-Metodos.ipynb)
+- [Funções](Capitulo02/Cap02-06-Funcoes.ipynb)
+- [Expressões Lambda](Capitulo02/Cap02-07-Lambda.ipynb)
+- [List Comprehension](Capitulo02/Cap02-08-List-Comprehension.ipynb)
