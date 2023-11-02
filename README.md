@@ -24,3 +24,5 @@ Este repositório é referente as minhas anotações do curso disponível na DSA
 - [Funções](Capitulo02/Cap02-06-Funcoes.ipynb)
 - [Expressões Lambda](Capitulo02/Cap02-07-Lambda.ipynb)
 - [List Comprehension](Capitulo02/Cap02-08-List-Comprehension.ipynb)
+- [Exercícios de Funções](Capitulo02/Cap02-09-Exercicios-Funcoes.ipynb)
+- [Projeto de uma Calculadora Simples](Capitulo02/Cap02-11-Calculadora-simples.py)
