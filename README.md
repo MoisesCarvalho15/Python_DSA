@@ -25,4 +25,7 @@ Este repositório é referente as minhas anotações do curso disponível na DSA
 - [Expressões Lambda](Capitulo02/Cap02-07-Lambda.ipynb)
 - [List Comprehension](Capitulo02/Cap02-08-List-Comprehension.ipynb)
 - [Exercícios de Funções](Capitulo02/Cap02-09-Exercicios-Funcoes.ipynb)
+- [Exercícios de Loops e Condicionais](Capitulo02/Cap02-10-Exercicios-Loops-Condicionais.ipynb)
 - [Projeto de uma Calculadora Simples](Capitulo02/Cap02-11-Calculadora-simples.py)
+
+--- 
