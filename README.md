@@ -29,3 +29,9 @@ Este repositório é referente as minhas anotações do curso disponível na DSA
 - [Projeto de uma Calculadora Simples](Capitulo02/Cap02-11-Calculadora-simples.py)
 
 --- 
+
+## Capítulo 03 - Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in
+
+- [Manipulação de Arquivos - Parte 1](Capitulo03/Cap03-01-Arquivos.ipynb)
+- [Manipulação de Arquivos - Parte 2](Capitulo03/Cap03-02-TXT-CSV-JSON.ipynb)
+- [Arquivos criados e usados nas aulas](Capitulo03/arquivos)
