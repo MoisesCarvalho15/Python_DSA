@@ -34,4 +34,15 @@ Este repositório é referente as minhas anotações do curso disponível na DSA
 
 - [Manipulação de Arquivos - Parte 1](Capitulo03/Cap03-01-Arquivos.ipynb)
 - [Manipulação de Arquivos - Parte 2](Capitulo03/Cap03-02-TXT-CSV-JSON.ipynb)
+- [Módulos e Pacotes](Capitulo03/Cap03-03-Modulos-e-Pacotes.ipynb)
+- [Função Map](Capitulo03/Cap03-04-Map.ipynb)
+- [Função Reduce](Capitulo03/Cap03-05-Reduce.ipynb)
+- [Função Filter](Capitulo03/Cap03-06-Filter.ipynb)
+- [Função Zip](Capitulo03/Cap03-07-Zip.ipynb)
+- [Função Enumerate](Capitulo03/Cap03-08-Enumerate.ipynb)
+- [Erros e Exceções](Capitulo03/Cap03-09-Erros-e-Excecoes.ipynb)
+- [Expressões Regulares](Capitulo03/Cap03-10-Expressoes_regulares.ipynb)
+- [Exercícios deste módulo](Capitulo03/Cap03-11-Exercicios.ipynb)
 - [Arquivos criados e usados nas aulas](Capitulo03/arquivos)
+
+---
