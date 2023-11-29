@@ -46,3 +46,14 @@ Este repositório é referente as minhas anotações do curso disponível na DSA
 - [Arquivos criados e usados nas aulas](Capitulo03/arquivos)
 
 ---
+
+## Capítulo 04 - Projeto Jogo da forca
+
+- Jogo criado a partir dos conhecimentos adquiridos até o momento com o curso. É uma versão simples, mas que usa assuntos como:
+    - [x] Loops
+    - [x] Condicionais
+    - [x] List Comprehension
+    - [x] Funções
+    - [x] Módulos
+    - [x] Entrada de dados
+- [Jogo da forca - Versão 1](Capitulo04/jogo_da_forca.py)
