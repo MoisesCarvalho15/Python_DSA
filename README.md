@@ -57,3 +57,11 @@ Este repositório é referente as minhas anotações do curso disponível na DSA
     - [x] Módulos
     - [x] Entrada de dados
 - [Jogo da forca - Versão 1](Capitulo04/jogo_da_forca.py)
+
+---
+
+## Capítulo 05 - Programação Orientada a Objetos
+
+- [Classes](Capitulo05/Cap05-01-Classes.ipynb)
+- [Métodos de Classes](Capitulo05/Cap05-02-Metodos.ipynb)
+- [Herança em Classes](Capitulo05/Cap05-03-Herancas.ipynb)
