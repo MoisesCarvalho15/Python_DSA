@@ -65,3 +65,4 @@ Este repositório é referente as minhas anotações do curso disponível na DSA
 - [Classes](Capitulo05/Cap05-01-Classes.ipynb)
 - [Métodos de Classes](Capitulo05/Cap05-02-Metodos.ipynb)
 - [Herança em Classes](Capitulo05/Cap05-03-Herancas.ipynb)
+- [Polimorfismo em Classes](Capitulo05/Cap05-04-Polimorfismo.ipynb)
